@@ -2,8 +2,8 @@
 
 My name is Martin Albert Ortega, I'm a software engineer.
 I started out as a English literature student, but while studying at Facultad de Filosofia y letras UNAM, discovered the joys of programming then I decided
-to study administrative systems in Universidad del Valle de Mexico.
-I currently hold a master degree of sytems engineering from Universidad del Valle de Mexico.
+to study administrative systems in Universidad del Valle de Mexico UVM.
+I currently hold a master degree of sytems engineering from Universidad del Valle de Mexico UVM.
 
 For the past twelve years, I had architected and developed software for a variety of industries, including banking industry, insurance companies and goverment ministers.
 <!--
