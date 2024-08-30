@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there:
 
 My name is Martin Albert Ortega, I'm a software engineer.
 I started out as a English literature student, but while studying at Facultad de Filosofia y letras UNAM, discovered the joys of programming then I decided
