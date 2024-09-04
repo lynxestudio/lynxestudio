@@ -5,7 +5,7 @@ I started out as a English literature student, but while studying at Facultad de
 to study administrative systems in Universidad del Valle de Mexico UVM.
 I currently hold a master degree of sytems engineering from Universidad del Valle de Mexico UVM.
 
-For the past twelve years, I had architected and developed software for a variety of industries, including banking industry, insurance companies and goverment ministers.
+For the past twelve years, I had architected and developed software for a variety of industries, including banking industry, insurance companies and goverment ministries.
 <!--
 **lynxestudio/lynxestudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
