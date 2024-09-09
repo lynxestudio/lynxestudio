@@ -1,6 +1,6 @@
 ## Hi there:
 
-<img src="images/vage.png" width="682" height="489" alt="">
+<img src="images/vage.png" width="682" height="301" alt="">
 
 My name is Martin Ortega-Marquez, I'm a software engineer.
 I started out as a English literature student, but while studying at Facultad de Filosofia y letras UNAM, discovered the joys of programming then I decided
