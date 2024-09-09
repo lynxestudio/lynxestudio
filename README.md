@@ -1,7 +1,7 @@
 ## Hi there:
 
 <p>
-<img src="images/logo.png" width="401" height="211" alt="">
+<img src="images/vage.png" width="686" height="600" alt="">
 </p>
 
 My name is Martin Ortega-Marquez, I'm a software engineer.
@@ -11,7 +11,7 @@ I currently hold a master degree of sytems engineering from Universidad del Vall
 
 For the past twelve years, I had architected and developed software for a variety of industries, including banking industry, insurance companies and goverment ministries.
 
-<img src="images/vage.png" width="682" height="53" alt="">
+
 <!--
 **lynxestudio/lynxestudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
