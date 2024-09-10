@@ -14,9 +14,11 @@ For the past twelve years, I had architected and developed software for a variet
 The technologies I usually use for building products:
 <table width="100%">
 <tr>
+	<td><b>Programming</b></td>
+	<td><b>Databases</b></td>
+</tr>
 <td>
 <p align="Justify">
-	<b>Programming</b>
 	<ul>
 		<li>C#</li>
 		<li>Bash</li>
@@ -27,7 +29,6 @@ The technologies I usually use for building products:
 </td>
 <td>
 <p align="justify">
-<b>Databases</b>
 	<ul>
 		<li>PostgreSQL</li>
 		<li>Oracle</li>
@@ -37,9 +38,12 @@ The technologies I usually use for building products:
 </td>
 </tr>
 <tr>
+	<td><b>Communications</b></td>
+	<td><b>Design</b></td>
+</tr>
+<tr>
 <td>
 <p align="justify">
-	<b>Communications</b>
 	<ul>
 		<li>Asp.net</li>
 		<li>WCF</li>
@@ -49,7 +53,6 @@ The technologies I usually use for building products:
 </td>
 <td>
 <p align="justify">
-	<b>Design</b>
 	<ul>
 		<li>OOP</li>
 		<li>Patterns</li>
