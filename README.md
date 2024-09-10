@@ -14,12 +14,43 @@ For the past twelve years, I had architected and developed software for a variet
 The technologies I use for building software:
 <table>
 <tr>
-<td>Programming languages</td>
-<td>Databases</td>
+<td>
+<p>
+	Programming
+<ul>
+<li>C#</li>
+<li>Bash</li>
+<li>Python</li>
+<li>JS</li>
+</ul>
+</p>
+</td>
+<td>
+Databases
+<ul>
+<li>PostgreSQL</li>
+<li>Oracle</li>
+<li>Sql Server</li>
+</ul>
+</td>
 </tr>
 <tr>
-<td>Communications</td>
-<td>Cybersecurity</td>
+<td>
+Communications
+<ul>
+<li>Asp.net</li>
+<li>WCF</li>
+<li>Socket</li>
+</ul>
+</td>
+<td>
+Design
+<ul>
+<li>OOP</li>
+<li>Patterns</li>
+<li>Security</li>
+</ul>
+</td>
 </tr>
 </table>
 
