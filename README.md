@@ -11,45 +11,51 @@ I currently hold a master degree of sytems engineering from Universidad del Vall
 
 For the past twelve years, I had architected and developed software for a variety of industries, including banking industry, insurance companies and goverment ministries.
 
-The technologies I use for building software:
-<table>
+The technologies I usually use for building products:
+<table width="100%">
 <tr>
 <td>
-<p>
-	Programming
-<ul>
-<li>C#</li>
-<li>Bash</li>
-<li>Python</li>
-<li>JS</li>
-</ul>
-</p>
+<p align="Justify">
+	<b>Programming</b>
+	<ul>
+		<li>C#</li>
+		<li>Bash</li>
+		<li>Python</li>
+		<li>JS</li>
+	</ul>
+	</p>
 </td>
 <td>
-Databases
-<ul>
-<li>PostgreSQL</li>
-<li>Oracle</li>
-<li>Sql Server</li>
-</ul>
+<p align="justify">
+<b>Databases</b>
+	<ul>
+		<li>PostgreSQL</li>
+		<li>Oracle</li>
+		<li>Sql Server</li>
+	</ul>
+</p>
 </td>
 </tr>
 <tr>
 <td>
-Communications
-<ul>
-<li>Asp.net</li>
-<li>WCF</li>
-<li>Socket</li>
-</ul>
+<p align="justify">
+	<b>Communications</b>
+	<ul>
+		<li>Asp.net</li>
+		<li>WCF</li>
+		<li>Socket</li>
+	</ul>
+	</p>
 </td>
 <td>
-Design
-<ul>
-<li>OOP</li>
-<li>Patterns</li>
-<li>Security</li>
-</ul>
+<p align="justify">
+	<b>Design</b>
+	<ul>
+		<li>OOP</li>
+		<li>Patterns</li>
+		<li>Security</li>
+	</ul>
+</p>
 </td>
 </tr>
 </table>
