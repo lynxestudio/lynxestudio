@@ -16,50 +16,47 @@ The technologies I usually use for building products:
 <tr>
 	<td><b>Programming</b></td>
 	<td><b>Databases</b></td>
-</tr>
-<td>
-<p align="Justify">
-	<ul>
-		<li>C#</li>
-		<li>Bash</li>
-		<li>Python</li>
-		<li>JS</li>
-	</ul>
-	</p>
-</td>
-<td>
-<p align="justify">
-	<ul>
-		<li>PostgreSQL</li>
-		<li>Oracle</li>
-		<li>Sql Server</li>
-	</ul>
-</p>
-</td>
-</tr>
-<tr>
 	<td><b>Communications</b></td>
 	<td><b>Design</b></td>
 </tr>
 <tr>
-<td>
-<p align="justify">
-	<ul>
-		<li>Asp.net</li>
-		<li>WCF</li>
-		<li>Socket</li>
-	</ul>
+	<td>
+	<p align="Justify">
+		<ul>
+			<li>C#</li>
+			<li>Bash</li>
+			<li>Python</li>
+			<li>JS</li>
+		</ul>
+		</p>
+	</td>
+	<td>
+	<p align="justify">
+		<ul>
+			<li>PostgreSQL</li>
+			<li>Oracle</li>
+			<li>Sql Server</li>
+		</ul>
 	</p>
-</td>
-<td>
-<p align="justify">
-	<ul>
-		<li>OOP</li>
-		<li>Patterns</li>
-		<li>Security</li>
-	</ul>
-</p>
-</td>
+	</td>
+	<td>
+	<p align="justify">
+		<ul>
+			<li>Asp.net</li>
+			<li>WCF</li>
+			<li>Socket</li>
+		</ul>
+		</p>
+	</td>
+	<td>
+	<p align="justify">
+		<ul>
+			<li>OOP</li>
+			<li>Patterns</li>
+			<li>Security</li>
+		</ul>
+	</p>
+	</td>
 </tr>
 </table>
 
