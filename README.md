@@ -27,7 +27,7 @@ how the things works in order to modify them and solve problems.
 				<ul>
 					<li>
 						<a href="https://github.com/lynxestudio/20081229-FirstApp">
-						Entendiendo los ensamblados en .NET
+						Ensamblados en .NET
 						</a>
 					</li>
 				</ul>
@@ -67,15 +67,15 @@ how the things works in order to modify them and solve problems.
 				<ul>
 				<li>
 				<a href="https://github.com/lynxestudio/20090111-ASP-RegularExpressionValidator
-">Validando expresiones regulares ASP.NET</a>
+">Expresiones Regulares ASP.NET</a>
 </li>
 				<li>
 				<a href="https://github.com/lynxestudio/20090106-ASP-RangeValidator
-">Validando los rangos ASP.NET</a>
+">Rangos ASP.NET</a>
 </li>
 				<li>
 				<a href="https://github.com/lynxestudio/20090104-ASP-RequiredFieldValidator
-">Validando campos obligatorios (ASP.NET)</a>
+">Campos obligatorios (ASP.NET)</a>
 </li>
 				<li>
 					<a href="https://github.com/lynxestudio/20090305-BankStatements">
