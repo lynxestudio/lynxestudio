@@ -25,11 +25,13 @@ how the things works in order to modify them and solve problems.
 		<ul>
 			<li>C#
 				<ul>
-					<li><a href="https://github.com/lynxestudio/20081229-FirstApp
-">Entendiendo los ensamblados en .NET</a></li>
+					<li>
+						<a href="https://github.com/lynxestudio/20081229-FirstApp">
+						Entendiendo los ensamblados en .NET
+						</a>
+					</li>
 				</ul>
 			</li>
-			
 			<li>Bash</li>
 			<li>Python</li>
 			<li>JS</li>
