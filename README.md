@@ -16,8 +16,7 @@ how the things works in order to modify them and solve problems.
 <tr>
 	<td><b>Programming</b></td>
 	<td><b>Databases</b></td>
-	<td><b>Communications</b></td>
-	<td><b>Design</b></td>
+	<td><b>Architecture</b></td>
 </tr>
 <tr>
 	<td>
@@ -46,17 +45,6 @@ how the things works in order to modify them and solve problems.
 			<li>Sql Server</li>
 		</ul>
 	</p>
-	</td>
-	<td>
-	<p align="justify">
-		<ul>
-			<li>
-			Asp.net
-			</li>
-			<li>WCF</li>
-			<li>Socket</li>
-		</ul>
-		</p>
 	</td>
 	<td>
 	<p align="justify">
