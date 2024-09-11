@@ -49,6 +49,7 @@ how the things works in order to modify them and solve problems.
 	<td>
 	<p align="justify">
 		<ul>
+			<li>Networking</li>
 			<li>OOP</li>
 			<li>Patterns</li>
 			<li>Security
