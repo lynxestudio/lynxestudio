@@ -224,20 +224,6 @@ Social networks:
 	<td>
 	<p align="justify">
 		<ul>
-			<li>Networking
-			<ul>
-			<li>
-			<a href="https://github.com/lynxestudio/20100821-FTPSample">
-			Protocolo FTP
-			</a>
-			</li>
-			<li>
-				<a href="https://github.com/lynxestudio/20101130-IPSample">
-				Direcciones IP
-				</a>
-			</li>
-			</ul>
-			</li>
 			<li>OOP</li>
 			<li>Patterns
 				<ul>
@@ -315,6 +301,16 @@ Social networks:
 					SMTP (Simple Mail Transfer Protocol)
 					</a>
 				</li>
+				<li>
+			<a href="https://github.com/lynxestudio/20100821-FTPSample">
+			Protocolo FTP
+			</a>
+			</li>
+			<li>
+				<a href="https://github.com/lynxestudio/20101130-IPSample">
+				Direcciones IP
+				</a>
+			</li>
 				</ul>
 	</td>
 </tr>
