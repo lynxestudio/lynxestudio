@@ -39,6 +39,41 @@ how the things works in order to modify them and solve problems.
 						XML en .NET
 						</a>
 					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20101031-UncheckedSample">
+						Uso de Unchecked
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20101025-LambdaExpression">
+						Lambda Expression
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20101003-CSharpPuzzlers">
+						Conversiones
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20110114-BitwiseOperators">
+						Bitwise operadores
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20110227-DateSample">
+						Struct Date
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20110320-DestructorSample">
+						Destructores
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20110419-CustomExceptionsCSharp">
+						Excepciones
+						</a>
+					</li>
 				</ul>
 			</li>
 			<li>Bash</li>
@@ -52,11 +87,16 @@ how the things works in order to modify them and solve problems.
 		<ul>
 			<li>PostgreSQL
 				<ul>
-				<li>
-				<a href="https://github.com/lynxestudio/20100919-PLSQLStoreProcedures">
-				Stores procedures PL/SQL
-				</a>
-				</li>
+					<li>
+					<a href="https://github.com/lynxestudio/20100919-PLSQLStoreProcedures">
+					Stores procedures PL/SQL
+					</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20100907-DataBaseConnectionSample">
+						Conexiones con PostgreSQL 
+						</a>
+					</li>
 				</ul>
 			</li>
 			<li>Oracle</li>
@@ -73,6 +113,11 @@ how the things works in order to modify them and solve problems.
 			<a href="https://github.com/lynxestudio/20100821-FTPSample">
 			Protocolo FTP
 			</a>
+			</li>
+			<li>
+				<a href="https://github.com/lynxestudio/20101130-IPSample">
+				Direcciones IP
+				</a>
 			</li>
 			</ul>
 			</li>
