@@ -11,6 +11,12 @@ For the past twelve years, I had architected and developed software for a variet
 This is my personal repository for the technologies I usually use for building products.
 Here you will find samples that I use for showing concepts, because in my opinion being a engineer it is about
 how the things works in order to modify them and solve problems.
+
+<p align="justify">
+Social networks:
+<a href="https://www.credly.com/users/martin-ortega-marquez">Credly</a>
+<a href="https://www.linkedin.com/in/masterlynx/">Linked In</a>
+</p>
    
 <table width="100%">
 <tr>
@@ -264,8 +270,6 @@ how the things works in order to modify them and solve problems.
 	</td>
 </tr>
 </table>
-
-<a href="https://www.credly.com/users/martin-ortega-marquez">Credly</a>
 <!--
 **lynxestudio/lynxestudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
