@@ -23,6 +23,7 @@ Social networks:
 	<td><b>Programming</b></td>
 	<td><b>Databases</b></td>
 	<td><b>Architecture</b></td>
+	<td><b>Security</b></td>
 </tr>
 <tr>
 	<td>
@@ -120,6 +121,11 @@ Social networks:
 						Serializacion de objetos
 						</a>
 					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20121214-TSP-Algorithm">
+						Traveling Salesman Problem
+						</a>
+					</li>
 				</ul>
 			</li>
 			<li>Bash</li>
@@ -131,11 +137,17 @@ Social networks:
 						JS desde ASP.NET
 						</a>
 					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20130421-KendoUI-RadComboBox">
+						Kendo UI RadComboBox
+						</a>
+					</li>
 				</ul>
 			</li>
 		</ul>
 		</p>
 	</td>
+	<!--End Programming -->
 	<td>
 	<p align="justify">
 		<ul>
@@ -166,6 +178,41 @@ Social networks:
 						Secuencias
 						</a>
 					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20121229-BlobDataType">
+						Blob DataType
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20130111-ADO-Blob-Sample">
+						Binary Large Object (BLOB) en PostgreSQL
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20130127-PostgreSQL-Cursors">
+						Cursores
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20130328-PostgreSQL-CursorsFunctions">
+						Cursors y Functions PLpg/SQL
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20130305-PostgreSQL-Transactions">
+						Transacciones
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20130306-ADO-Transactions">
+						Transacciones en ADO.NET
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20130408-PostgreSQL-RefCursors">
+						Ref Cursors
+						</a>
+					</li>
 				</ul>
 			</li>
 			<li>Oracle</li>
@@ -173,6 +220,7 @@ Social networks:
 		</ul>
 	</p>
 	</td>
+	<!-- End Databases-->
 	<td>
 	<p align="justify">
 		<ul>
@@ -204,8 +252,12 @@ Social networks:
 					</li>
 				</ul>
 			</li>
-			<li>Security
-				<ul>
+		</ul>
+	</p>
+	</td>
+	<!-- End networking -->
+	<td>
+		<ul>
 				<li>
 				<a href="https://github.com/lynxestudio/20090111-ASP-RegularExpressionValidator
 ">Expresiones Regulares ASP.NET</a>
@@ -264,9 +316,6 @@ Social networks:
 					</a>
 				</li>
 				</ul>
-			</li>
-		</ul>
-	</p>
 	</td>
 </tr>
 </table>
