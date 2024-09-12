@@ -74,11 +74,59 @@ how the things works in order to modify them and solve problems.
 						Excepciones
 						</a>
 					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20110424-CustomExceptionGTKSharp">
+						Excepciones personalizadas
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20110625-CSharpWMISample">
+						Windows Management Instrumentation
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20111117-RegularExpressionApp">
+						Expresiones Regulares
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20111225-SatelliteAssemblies">
+						Ensamblados Satellite 1
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20111227-SatelliteAssemblies">
+						Ensamblados Satellite 2
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20120228-Vectors">
+						Sobrecarga de operadores
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20120319-IOStreams">
+						Input y Output Streams
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20120522-ObjectsSerialization">
+						Serializacion de objetos
+						</a>
+					</li>
 				</ul>
 			</li>
 			<li>Bash</li>
 			<li>Python</li>
-			<li>JS</li>
+			<li>JS
+				<ul>
+					<li>
+						<a href="https://github.com/lynxestudio/20111112-ASPX-JS-Sample">
+						JS desde ASP.NET
+						</a>
+					</li>
+				</ul>
+			</li>
 		</ul>
 		</p>
 	</td>
@@ -95,6 +143,21 @@ how the things works in order to modify them and solve problems.
 					<li>
 						<a href="https://github.com/lynxestudio/20100907-DataBaseConnectionSample">
 						Conexiones con PostgreSQL 
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20120831-PgSQLParameters">
+						Parameterized commands en ADO.NET
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20120906-Parameterized-Commands">
+						Comandos SQL en ADO.NET 
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20121002-PgSequences">
+						Secuencias
 						</a>
 					</li>
 				</ul>
@@ -168,6 +231,31 @@ how the things works in order to modify them and solve problems.
 				<a href="https://github.com/lynxestudio/20100805-SecurityDotnet3">
 				Seguridad en .NET
 				</a>
+				</li>
+				<li>
+					<a href="https://github.com/lynxestudio/20110601-TraceListenersSample">
+						Logging en aplicaciones
+					</a>
+				</li>
+				<li>
+						<a href="https://github.com/lynxestudio/20110629-ASPFileUpload">
+						Control File Upload ASP.NET
+						</a>
+				</li>
+				<li>
+					<a href="https://github.com/lynxestudio/20110730-Log4netSample">
+					Log4net
+					</a>
+				</li>
+				<li>
+					<a href="https://github.com/lynxestudio/20120331-Process-Sample">
+					Procesos
+					</a>
+				</li>
+				<li>
+					<a href="https://github.com/lynxestudio/20120618-Email-SMTP">
+					SMTP (Simple Mail Transfer Protocol)
+					</a>
 				</li>
 				</ul>
 			</li>
