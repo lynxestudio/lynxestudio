@@ -215,7 +215,25 @@ Social networks:
 					</li>
 				</ul>
 			</li>
-			<li>Oracle</li>
+			<li>Oracle
+				<ul>
+					<li>
+					<a href="https://github.com/lynxestudio/20130825-PLSQL-FirstDay">
+					Obtener el primer día del mes en curso
+					</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20130916-Oracle-RegEx">
+						Regular Expressions
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20130920-Oracle-RegEx2">
+						Regular Expressions II
+						</a>
+					</li>
+				</ul>
+			</li>
 			<li>Sql Server</li>
 		</ul>
 	</p>
