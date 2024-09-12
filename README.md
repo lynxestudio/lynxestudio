@@ -29,6 +29,16 @@ how the things works in order to modify them and solve problems.
 						Ensamblados en .NET
 						</a>
 					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20100530-LinqXMLSample2">
+						XML en .NET
+						</a>
+					</li>
+					<li>
+						<a href="https://github.com/lynxestudio/20100526-LinqXMLSample1">
+						XML en .NET
+						</a>
+					</li>
 				</ul>
 			</li>
 			<li>Bash</li>
@@ -40,7 +50,15 @@ how the things works in order to modify them and solve problems.
 	<td>
 	<p align="justify">
 		<ul>
-			<li>PostgreSQL</li>
+			<li>PostgreSQL
+				<ul>
+				<li>
+				<a href="https://github.com/lynxestudio/20100919-PLSQLStoreProcedures">
+				Stores procedures PL/SQL
+				</a>
+				</li>
+				</ul>
+			</li>
 			<li>Oracle</li>
 			<li>Sql Server</li>
 		</ul>
@@ -49,9 +67,29 @@ how the things works in order to modify them and solve problems.
 	<td>
 	<p align="justify">
 		<ul>
-			<li>Networking</li>
+			<li>Networking
+			<ul>
+			<li>
+			<a href="https://github.com/lynxestudio/20100821-FTPSample">
+			Protocolo FTP
+			</a>
+			</li>
+			</ul>
+			</li>
 			<li>OOP</li>
-			<li>Patterns</li>
+			<li>Patterns
+				<ul>
+					<li>
+					<a href="https://github.com/lynxestudio/20100520-SingletonPatternPostgreSQL">
+					Singleton con PostgreSQL</a>
+					</li>
+					<li>
+					<a href="https://github.com/lynxestudio/20100503-SingletonPattern">
+					Singleton con SQL
+					</a>
+					</li>
+				</ul>
+			</li>
 			<li>Security
 				<ul>
 				<li>
@@ -70,6 +108,21 @@ how the things works in order to modify them and solve problems.
 					<a href="https://github.com/lynxestudio/20090305-BankStatements">
 					CAS Code Access Security en .NET
 					</a>
+				</li>
+				<li>
+				<a href="https://github.com/lynxestudio/20100725-SecurityDotNet2">
+				Seguridad en .NET
+				</a>
+				</li>
+				<li>
+				<a href="https://github.com/lynxestudio/20100714-SecurityDotNet">
+				Seguridad en .NET
+				</a>
+				</li>
+				<li>
+				<a href="https://github.com/lynxestudio/20100805-SecurityDotnet3">
+				Seguridad en .NET
+				</a>
 				</li>
 				</ul>
 			</li>
