@@ -1,29 +1,34 @@
 ## Hi there, welcome:
 
-
+<p align="justify">
 My name is Martin Ortega-Marquez, I'm a software engineer.
 I started out as a English literature student, but while studying at Facultad de Filosofia y letras UNAM, discovered the joys of programming then I decided
 to study administrative systems in Universidad del Valle de Mexico UVM.
 I currently hold a master degree of sytems engineering from Universidad del Valle de Mexico UVM.
-
+</p>
+<p align="justify">
 For the past twelve years, I had architected and developed software for a variety of industries, including banking industry, insurance companies and goverment ministries.
-
+</p>
+<p align="justify">
 This is my personal repository for the technologies I usually use for building products.
 Here you will find samples that I use for showing concepts, because in my opinion being a engineer it is about
 how the things works in order to modify them and solve problems.
-
-<p align="justify">
+</p>
+<br />
+<div>
 Social networks:
 <a href="https://www.credly.com/users/martin-ortega-marquez">Credly</a>
+<br />
 <a href="https://www.linkedin.com/in/masterlynx/">Linked In</a>
-</p>
+</div>
+
    
 <table width="100%">
 <tr>
 	<td><b>Programming</b></td>
 	<td><b>Databases</b></td>
 	<td><b>Architecture</b></td>
-	<td><b>Security</b></td>
+	<td><b>Security and Networking</b></td>
 </tr>
 <tr>
 	<td>
@@ -232,6 +237,31 @@ Social networks:
 						Regular Expressions II
 						</a>
 					</li>
+                    <li>
+                        <a href="https://github.com/lynxestudio/20180724-DataReaderSample">
+                        Oracle Datareader ExecuteScalar
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/lynxestudio/20190106-OracleSchema">
+                        Oracle Get Schema
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/lynxestudio/20180705-OracleDBHelper">
+                        Oracle ADO provider for .NET
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/lynxestudio/20130819-Oracle-Helper-Cmd">
+                        Oracle ADO provider for .NET (Console)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/lynxestudio/20180621-OracleConnection">
+                        Oracle DB Connection
+                        </a>
+                    </li>
 				</ul>
 			</li>
 			<li>Sql Server</li>
@@ -242,8 +272,7 @@ Social networks:
 	<td>
 	<p align="justify">
 		<ul>
-			<li>OOP</li>
-			<li>Patterns
+			<li>OOP
 				<ul>
 					<li>
 					<a href="https://github.com/lynxestudio/20100520-SingletonPatternPostgreSQL">
@@ -329,6 +358,16 @@ Social networks:
 				Direcciones IP
 				</a>
 			</li>
+            <li>
+                <a href="https://github.com/lynxestudio/20190112-WCF-Service">
+                RESTFul WCF
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/lynxestudio/20190429-RESTFul-Sample">
+                RESTFul (POST, PUT and DELETE) WCF
+                </a>
+            </li>
 				</ul>
 	</td>
 </tr>
