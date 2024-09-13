@@ -15,6 +15,11 @@ Here you will find samples that I use for showing concepts, because in my opinio
 how the things works in order to modify them and solve problems.
 </p>
 <p>
+Social networks:
+<ul>
+	<li><a href="https://www.linkedin.com/in/masterlynx/">Linked In</a></li>
+	<li><a href="https://www.credly.com/users/martin-ortega-marquez">Credly</a></li>
+</ul>
 Technologies:
 <ul>
 	<li>Communications</li>
@@ -30,11 +35,6 @@ Technologies:
 	<li>SQL Server</li>
 	<li>ASP .NET</li>
 	<li>Windows Communication Foundation</li>
-</ul>
-Social networks:
-<ul>
-	<li><a href="https://www.linkedin.com/in/masterlynx/">Linked In</a></li>
-	<li><a href="https://www.credly.com/users/martin-ortega-marquez">Credly</a></li>
 </ul>
 </p>
 
