@@ -16,14 +16,20 @@ how the things works in order to modify them and solve problems.
 </p>
 <p>
 Social networks:
-<ul>
-	<li><a href="https://www.linkedin.com/in/masterlynx/"><img src="images/linkedin.png" width="62" height="61" alt=""></a></li>
-	<li><a href="https://www.credly.com/users/martin-ortega-marquez"><img src="images/credly.png" width="65" height="35" alt=""></a></li>
-</ul>
+<div>
+<a href="https://www.linkedin.com/in/masterlynx/">
+<img src="images/linkedin.png" width="62" height="61" alt="">
+</a>
+</div>
+<div>
+<a href="https://www.credly.com/users/martin-ortega-marquez">
+<img src="images/credly.png" width="65" height="35" alt="">
+</a>
+</div>
 Technologies:
-<ul>
-	<li><img src="images/csharp.png" width="65" height="68" alt=""></li>
-</ul>
+<div>
+<img src="images/csharp.png" width="65" height="68" alt="">
+</div>
 </p>
 
 <!--
