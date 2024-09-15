@@ -17,24 +17,12 @@ how the things works in order to modify them and solve problems.
 <p>
 Social networks:
 <ul>
-	<li><a href="https://www.linkedin.com/in/masterlynx/">Linked In</a></li>
-	<li><a href="https://www.credly.com/users/martin-ortega-marquez">Credly</a></li>
+	<li><a href="https://www.linkedin.com/in/masterlynx/"><img src="images/linkedin.png" width="62" height="61" alt=""></a></li>
+	<li><a href="https://www.credly.com/users/martin-ortega-marquez"><img src="images/credly.png" width="130" height="70" alt=""></a></li>
 </ul>
 Technologies:
 <ul>
-	<li>Communications</li>
-	<li>Security</li>
-	<li>Object Oriented Programming</li>
-	<li>C#</li>
-	<li>C</li>
-	<li>Java</li>
-	<li>JavaScript</li>
-	<li>Python</li>
-	<li>Oracle</li>
-	<li>PostgreSQL</li>
-	<li>SQL Server</li>
-	<li>ASP .NET</li>
-	<li>Windows Communication Foundation</li>
+	<li><img src="images/csharp.png" width="130" height="137" alt=""></li>
 </ul>
 </p>
 
