@@ -18,11 +18,11 @@ how the things works in order to modify them and solve problems.
 Social networks:
 <ul>
 	<li><a href="https://www.linkedin.com/in/masterlynx/"><img src="images/linkedin.png" width="62" height="61" alt=""></a></li>
-	<li><a href="https://www.credly.com/users/martin-ortega-marquez"><img src="images/credly.png" width="130" height="70" alt=""></a></li>
+	<li><a href="https://www.credly.com/users/martin-ortega-marquez"><img src="images/credly.png" width="65" height="35" alt=""></a></li>
 </ul>
 Technologies:
 <ul>
-	<li><img src="images/csharp.png" width="130" height="137" alt=""></li>
+	<li><img src="images/csharp.png" width="65" height="68" alt=""></li>
 </ul>
 </p>
 
