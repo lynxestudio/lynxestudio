@@ -21,6 +21,7 @@ Social networks:
 <img src="images/linkedin.png" width="62" height="61" alt="">
 </a>
 </div>
+<br/>
 <div>
 <a href="https://www.credly.com/users/martin-ortega-marquez">
 <img src="images/credly.png" width="65" height="35" alt="">
